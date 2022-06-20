@@ -1,2 +1,2 @@
-# Shell-Script---Programs
-shell script mcalab
+# Shell-Script Programs
+MCA lab programes
